@@ -1,0 +1,9 @@
+아나콘다를 업데이트 한 이후
+conda update conda
+python -m pip install --upgrade pip
+
+텐서플로 설치
+pip install tensorflow
+
+기존에 텐서플로우가 설치되어 있으면 --upgrade 를 추가할 것
+pip install --upgrade tensorflow
